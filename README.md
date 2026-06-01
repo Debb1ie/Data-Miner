@@ -170,7 +170,7 @@ Replace the Google Fonts URL in the `useEffect` inside `App.jsx`. The font famil
 
 ---
 
-## Design decisions
+## Design decisions.
 
 - **No routing library** — track and filter state lives in `useState`; the URL doesn't change. Add React Router if you need shareable filtered URLs.
 - **No CSS files** — all styles are inline objects or applied via className strings with injected `<style>`. This keeps the component files self-contained and portable.
