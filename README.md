@@ -161,7 +161,7 @@ Each track has three color values used across its tab, header border, popular pi
 ```js
 color:  "#1D9E75"   // primary accent — tabs, pills, active states
 bg:     "#E1F5EE"   // light tint — badge backgrounds
-accent: "#0F6E56"   // darker shade — hover text
+accent: "#0F6E56"   // darker shade — hover text.
 ```
 
 ### Swap fonts
