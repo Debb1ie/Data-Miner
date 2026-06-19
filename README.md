@@ -1,6 +1,6 @@
 # DataCraft
 
-A dark-themed, interactive course catalog for data practitioners — covering Analytics, Data Engineering, Data Science, and AI. Built with React, no backend required.
+A dark-themed, interactive course catalog for data practitioners, covering Analytics, Data Engineering, Data Science, and AI. Built with React, no backend required.
 
 ![DataCraft preview](https://placehold.co/1200x600/080808/1D9E75?text=DataCraft+Platform)
 
